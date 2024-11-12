@@ -84,7 +84,7 @@ print(smartphone1)
 print(smartphone2)
 
 print(computer.make_computations())
-phone.call(1, "+996 777 77 77 77")
+phone.call(1, "+996 555 77 77 77")
 smartphone1.use_gps("Karakol")
 
 computer2 = Computer("AMD Ryzen 5", 8)
